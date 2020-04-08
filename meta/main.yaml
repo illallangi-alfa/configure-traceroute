@@ -1,0 +1,5 @@
+---
+dependencies:
+  - src: "https://git@github.com/illallangi-alfa/install-traceroute.git"
+    scm: git
+    version: master
